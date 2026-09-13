@@ -1,0 +1,42 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "overview",
+  "title": "先认这一页：顶栏、文件表、About",
+  "marks": [
+    {
+      "n": 1,
+      "x": 0,
+      "y": 72,
+      "w": 1440,
+      "h": 110,
+      "kind": "zone",
+      "label": "仓库顶栏",
+      "ok": true
+    },
+    {
+      "n": 2,
+      "x": 112,
+      "y": 307,
+      "w": 904,
+      "h": 329,
+      "kind": "zone",
+      "label": "文件表",
+      "ok": true
+    },
+    {
+      "n": 3,
+      "x": 1056,
+      "y": 190,
+      "w": 272,
+      "h": 371,
+      "kind": "zone",
+      "label": "About",
+      "ok": true
+    }
+  ]
+}

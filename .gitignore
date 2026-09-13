@@ -9,4 +9,6 @@ venv/
 # generated / local
 examples/street-github/*.html
 examples/street-github/report.json
+docs/*.html
 docs/images/probes/
+docs/images/*-raw.png
