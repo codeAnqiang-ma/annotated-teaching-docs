@@ -1,0 +1,43 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "caption",
+  "title": "在 GitHub 上打开 vscode 仓库",
+  "intro": [
+    "顶栏是全站，下面一排才是这个仓库的页签。",
+    "先确认停在 Code，要收藏再去右上 Star。"
+  ],
+  "marks": [
+    {
+      "n": 1,
+      "x": 32,
+      "y": 143,
+      "w": 75.421875,
+      "h": 30,
+      "kind": "region",
+      "label": "停在 Code"
+    },
+    {
+      "n": 2,
+      "x": 115.421875,
+      "y": 143,
+      "w": 126.8125,
+      "h": 30,
+      "kind": "region",
+      "label": "Issues 是工单，不是代码"
+    },
+    {
+      "n": 3,
+      "x": 1283.765625,
+      "y": 88,
+      "w": 124.234375,
+      "h": 28,
+      "kind": "right",
+      "label": "收藏点 Star"
+    }
+  ]
+}

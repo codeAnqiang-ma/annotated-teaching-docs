@@ -1,0 +1,25 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "banner",
+  "banner": {
+    "step": 2,
+    "total": 3,
+    "title": "点右上 Star，把仓库收进自己的列表"
+  },
+  "marks": [
+    {
+      "n": 1,
+      "x": 1283.765625,
+      "y": 88,
+      "w": 124.234375,
+      "h": 28,
+      "kind": "right",
+      "label": "对 · 点 Star"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+中文教程截图标注调研 · 样图目录
+下载时间：2026-09-11
+目录：/tmp/tutorial-refs/zh/
+
+==== 推荐样图（15）====
+01  01-sspai-snipaste-crop-range.png
+    源 https://sspai.com/post/42459
+    CDN https://cdnfile.sspai.com/2017/12/24/5d06e0ae71e84bbdb5d28117845bab58.png
+    手法 对错对照 + 红箭头 + ①②③
+    图上：左右两截 Photoshop 菜单；左「错误示范」红线拉太长，右「可选方案」用 ①②③ 标裁切范围
+    说明：图下中文标题；正文另讲原则
+    一图：对比 2 种取景，不是操作步骤
+
+03  03-sspai-snipaste-font-shadow.png
+    源 https://sspai.com/post/42459
+    CDN https://cdnfile.sspai.com/2017/12/24/95c076e739dd283a46b73722d680421e.png
+    手法 统一橙框（对比杂色框）
+    图上：同一设置窗左右对比；右图全部用同一橙色圆角框
+    说明：图下「错误示范 / 可选方案」
+    一图：讲规范，不是步骤
+
+06  06-sspai-snipaste-alpha.png
+    源 https://sspai.com/post/34962
+    CDN https://cdnfile.sspai.com/attachment/origin/2016/07/29/339868.png
+    手法 图上写中文图例
+    图上：红框/折线/箭头/马赛克/记号笔/椭圆框 等中文标签直接画在截图上
+    说明：图上已写完，正文补充工具列表
+    一图：工具总览
+
+12  12-pixpin-mark-toolbar.png
+    源 https://pixpin.cn/docs/mark/base-use
+    手法 红箭头 + 图上中文
+    图上：红箭头指向色板，旁写「点击设置自定义颜色」
+    说明：句子写在图上
+    一图一步
+
+19  19-aliyun-cert-redbox2.png
+    源 https://help.aliyun.com/zh/document_detail/142144.html
+    CDN https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/9011770061/p65848.png
+    手法 红框圈点
+    图上：红框圈 ProductKey / DeviceName / DeviceSecret
+    说明：正文「如下图红色框所示」；图上不写句子
+    一图一焦点（可多框同义）
+
+20  20-aliyun-backup-redbox.png
+    源 https://help.aliyun.com/zh/cloud-backup/user-guide/register-an-on-premises-oracle-database
+    CDN https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/0542772371/p879250.png
+    手法 序号圆点（橙）
+    图上：①–⑥ 橙色实心圆叠在整窗控制台
+    说明：步骤写在正文，图上只留数字
+    一图六步
+
+22  22-dify-kb-chunk.png
+    源 https://docs.dify.ai/zh/learn/tutorials/customer-service-bot
+    CDN https://assets-docs.dify.ai/dify-enterprise-mintlify/zh_CN/workshop/intermediate/31d4f5cac17f1f699084d28abe186313.png
+    手法 红框特写
+    图上：裁切模型供应商卡片，红框圈 TEXT EMBEDDING
+    说明：正文说「有标注 TEXT EMBEDDING」
+    一图一步；非整窗
+
+27  27-shimo-help-1.jpg
+    源 https://shimo.im/help/articles/AVKG2FE5ABOGS.html
+    CDN https://uploader.shimo.im/f/37bfjf0TddsP4tcF.jpg
+    手法 原图不标
+    图上：手机端菜单原图，无框无箭头
+    说明：全文写在标题/正文「右上角三个点----导出图片」
+    一图一屏
+
+32  32-aliyun-rpa-p1070316.png
+    源 https://help.aliyun.com/zh/rpa/user-guide/capture-elements
+    CDN https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/9569296771/p1070316.png
+    手法 双红框
+    图上：两处红框对照属性行与源码行
+    说明：正文用「如下图」
+    一图两处对照
+
+39  39-yuque-paste.png
+    源 https://github.com/grasilife/yuque/blob/master/dive-into-yuque-editor.md （语雀早期帮助镜像）
+    CDN https://gw.alipayobjects.com/zos/skylark/a5f63572-4d33-44e8-a5aa-868e34f4118c/2018/png/e597aa4c-2711-46b0-9dcc-b6f2d00b13c4.png
+    手法 红箭头指点
+    图上：大红箭头指向「复制」按钮
+    说明：正文讲粘贴图片；图上无字
+    一图一步
+
+43  43-huawei-obs-fig1.png
+    源 https://support.huaweicloud.com/usermanual-obs/obs_01_0211.html
+    图 https://support.huaweicloud.com/usermanual-obs/figure/zh-cn_image_0000001944338122.png
+    下载经 Wayback im_
+    手法 双红框（导航+按钮）
+    图上：红框圈侧栏「图片处理」和「创建」
+    说明：正文「如图3所示」；图下有图题
+    一图两处
+
+45  45-huawei-obs-fig3.png
+    同源 OBS 用户指南「单击图2红框内按钮」
+    图 https://support.huaweicloud.com/usermanual-obs/figure/zh-cn_image_0000001944497414.png
+    手法 红框圈文字链
+    图上：只框「添加文件」四个字
+    说明：图题「图2 上传图片」+ 正文「红框内按钮」
+    一图一步
+
+48  48-yuque-bs-2.png
+    源 https://www.bookstack.cn/read/yuque/45.md （语雀使用文档镜像）
+    CDN https://static.bookstack.cn/projects/yuque/25dd43ae0186fdeeb75a10836054abf6.png
+    手法 红框圈菜单
+    图上：红框圈右下角小菜单
+    说明：正文讲插入/快捷键
+    一图一处
+
+53  53-wecom-material.png
+    源 https://open.work.weixin.qq.com/help2/pc/16822 （企业微信帮助中心）
+    CDN https://wework.qpic.cn/wwpic3az/538917_Qx7sRtNoRsmEB5F_1753335489/0
+    手法 蓝序号圆点 + 描边框
+    图上：①②③ 蓝色圆点；侧栏和「素材库」卡片描蓝框
+    说明：步骤在正文
+    一图三步
+
+56  56-huawei-obs-fig5.png
+    同源 OBS 用户指南
+    图 https://support.huaweicloud.com/usermanual-obs/figure/zh-cn_image_0000001971496629.png
+    手法 红序号 + 红框
+    图上：①②③ 红圈数字，红框圈「编辑」「确定」
+    说明：图题+正文步骤对应编号
+    一图三步
+
+tencent-6f5e0bcc3a7f3501ac02226a5d120c90.png
+    源 https://cloud.tencent.com/document/product/1003/85281
+    CDN https://qcloudimg.tencent-cloud.cn/image/document/6f5e0bcc3a7f3501ac02226a5d120c90.png
+    手法 红框圈图标
+    图上：左侧折叠箭头被红框圈住（正文：「单击下图中红框内的图标」）
+    说明：图下无句子
+    一图一步
+
+==== 其它已下（备用）====
+02/04 少数派取景与字体对照
+05/07/08/30 少数派 Snipaste / 标注图像+ 工具演示（多为工具 UI，不是成品教程图）
+13 PixPin 官网营销图（红框演示长截图）
+14–17 阿里云 RPA：橙框、马赛克、CV 原图
+18 证书弹窗无红框（正文说有，这张是前一步）
+21 阿里云激活弹窗原图不标
+23–24 Dify 红框特写 / 干净进度页
+25–26/37–38 少数派 Notion 文：封面或干净 UI，红圈句在文里
+28 石墨第二张
+31 阿里云 RPA 小图
+33–36 Dify/RPA 大图：偏原图或列表
+40 语雀工具栏长条
+41–42 钉钉：原图不标
+44/46/57 华为小对话框
+47/49 语雀镜像：干净菜单或小图
+52 企业微信官网营销图（放大镜装饰，不是步骤标注）
+58–60 腾讯云顶栏细长条
+
+==== 失败 ====
+华为云 live：support.huaweicloud.com EdgeOne 验证码，HTML 2124B
+腾讯云 live：cloud.tencent.com JS challenge，图要从 Wayback HTML 抽出 CDN 再直连
+飞书帮助：p1-hera 图是 64×64 图标，不是教程整窗
+语雀官网 yuque.com/help：SPA，无图
+即时设计 js.design/tutorial：422 / 7KB SPA
+MasterGo cms-dev.mastergo.com/uploads/*：curl 失败 000
+Pixso development3.gif：404
+掘金 juejin.cn/post/…：SPA 无图
+微信公众号：无公开原页（墙），手法由少数派/PixPin/语雀同构推断
+即时设计 / Pixso「标注」= 研发尺寸线，不是红框教程

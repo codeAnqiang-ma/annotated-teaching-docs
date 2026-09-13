@@ -1,0 +1,30 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "compare",
+  "title": "要收藏仓库时左右对照",
+  "marks": [
+    {
+      "n": 1,
+      "x": 1149.765625,
+      "y": 88,
+      "w": 126,
+      "h": 28,
+      "kind": "wrong",
+      "label": "错 · 不要点 Fork"
+    },
+    {
+      "n": 2,
+      "x": 1283.765625,
+      "y": 88,
+      "w": 124.234375,
+      "h": 28,
+      "kind": "right",
+      "label": "对 · 点 Star"
+    }
+  ]
+}

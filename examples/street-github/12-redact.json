@@ -1,0 +1,39 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "redact",
+  "title": "对外教程：组织名、库名、贡献者打码",
+  "marks": [
+    {
+      "n": 1,
+      "x": 56,
+      "y": 91,
+      "w": 82.859375,
+      "h": 23,
+      "kind": "redact",
+      "label": "org"
+    },
+    {
+      "n": 2,
+      "x": 152.390625,
+      "y": 91,
+      "w": 66.375,
+      "h": 23,
+      "kind": "redact",
+      "label": "repo"
+    },
+    {
+      "n": 3,
+      "x": 161,
+      "y": 270.5,
+      "w": 190.921875,
+      "h": 21,
+      "kind": "redact",
+      "label": "author"
+    }
+  ]
+}

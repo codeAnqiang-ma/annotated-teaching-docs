@@ -1,0 +1,39 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "overview",
+  "title": "这一页三块：页签、文件表、About",
+  "marks": [
+    {
+      "n": 1,
+      "x": 0,
+      "y": 134,
+      "w": 1440,
+      "h": 48,
+      "kind": "zone",
+      "label": "仓库页签"
+    },
+    {
+      "n": 2,
+      "x": 32,
+      "y": 200,
+      "w": 980,
+      "h": 680,
+      "kind": "zone",
+      "label": "文件表"
+    },
+    {
+      "n": 3,
+      "x": 1032,
+      "y": 182,
+      "w": 328,
+      "h": 700,
+      "kind": "zone",
+      "label": "About 侧栏"
+    }
+  ]
+}

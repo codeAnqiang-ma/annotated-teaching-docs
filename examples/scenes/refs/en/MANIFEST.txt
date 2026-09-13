@@ -1,0 +1,78 @@
+# English tutorial screenshot references
+# 15 files in /tmp/tutorial-refs/en/
+# Extras (not counted) parked in /tmp/tutorial-refs/en-extra/
+
+01-github-orange-box-fork.png
+  page: https://docs.github.com/en/contributing/writing-for-github-docs/creating-screenshots
+  image: https://docs.github.com/assets/images/contributing/repository-fork-button.png
+  move: 橙框高亮（局部工具栏，只框 Fork）
+
+02-github-cropped-subtle-ui.png
+  page: https://docs.github.com/en/contributing/writing-for-github-docs/creating-screenshots
+  image: https://docs.github.com/assets/images/contributing/screenshot-yes-social-preview.png
+  move: 上下文裁切 + 小按钮橙框（Edit 难找）
+
+03-github-open-dropdown.png
+  page: https://docs.github.com/en/contributing/writing-for-github-docs/creating-screenshots
+  image: https://docs.github.com/assets/images/contributing/screenshot-yes-clone-gist.png
+  move: 展开菜单后框选选项（Clone via HTTPS）
+
+05-mslearn-numbered-callouts.png
+  page: https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
+  image: https://learn.microsoft.com/en-us/azure/azure-portal/media/azure-portal-overview/portal-callouts.png
+  move: 整窗 + 红框 + 图上编号，说明在图下对照表
+
+06-apple-full-device-markup.png
+  page: https://support.apple.com/en-us/119875
+  image: https://cdsassets.apple.com/live/7WUAS350/images/ios/ios-26-iphone-17-pro-photos-markup.png
+  move: 整机框 + 图上文字（Markup 文本条）
+
+07-screensteps-arrow.png
+  page: https://blog.screensteps.com/add-annotations-screenshots-screensteps
+  image: https://blog.screensteps.com/hs-fs/hubfs/Arrow%20Annotation-png.png?width=600&name=Arrow%20Annotation-png.png
+  move: 红箭头指向（一图一步）
+
+08-screensteps-sequence.png
+  page: https://blog.screensteps.com/add-annotations-screenshots-screensteps
+  image: https://blog.screensteps.com/hs-fs/hubfs/Sequence%20Annotation-png.png?width=600&name=Sequence%20Annotation-png.png
+  move: 序号箭头（一图两步，编号与正文列表对齐）
+
+10-tango-orange-box-caption.png
+  page: https://help.tango.ai/en/articles/5952560-can-i-edit-an-image-after-capturing
+  image: Intercom attachment (signed URL; use page as source)
+  move: 橙框 + 图外步骤题（③ Click on Play）
+
+11-tango-leader-labels.png
+  page: https://help.tango.ai/en/articles/5952560-can-i-edit-an-image-after-capturing
+  image: Intercom attachment (signed URL; use page as source)
+  move: 图外引线标签 + 背景变暗 + 鼠标指针
+
+12-digitalocean-control-panel.png
+  page: https://docs.digitalocean.com/products/custom-images/how-to/upload/
+  image: https://docs.digitalocean.com/screenshots/custom-images/overview.c7f454638be3817115f1c638d877b59ed3cd004f20fa6401d8193ad4a0b3ffa6.png
+  move: 干净无标 + 展开菜单（说明全在正文）
+
+13-cloudflare-api-highlight.png
+  page: https://developers.cloudflare.com/fundamentals/account/find-account-and-zone-ids/
+  image: https://raw.githubusercontent.com/cloudflare/cloudflare-docs/production/src/assets/images/fundamentals/get-started/dash-overview-api-highlighted.png
+  move: 区块橙框 + ID 打码
+
+14-screensteps-text-on-image.png
+  page: https://blog.screensteps.com/add-annotations-screenshots-screensteps
+  image: https://blog.screensteps.com/hs-fs/hubfs/Text%20Annotation-png.png?width=600&name=Text%20Annotation-png.png
+  move: 图上长句（黑底气泡）
+
+15-screensteps-blur.png
+  page: https://blog.screensteps.com/add-annotations-screenshots-screensteps
+  image: https://blog.screensteps.com/hs-fs/hubfs/Blur%20Annotation-png.png?width=600&name=Blur%20Annotation-png.png
+  move: 模糊打码
+
+16-stripe-clean-table.png
+  page: https://docs.stripe.com/reports/activity-breakdown
+  image: https://b.stripecdn.com/docs-statics-srv/assets/activity-breakdown.954cb8cda6462906936a8eea0ee1ead5.png
+  move: 干净无标产品全表（说明在正文）
+
+19-ms-red-square.png
+  page: https://github.com/uglide/azure-content/blob/master/contributor-guide/create-images-markdown.md
+  image: https://raw.githubusercontent.com/uglide/azure-content/master/contributor-guide/media/create-images-markdown/gs13noauth.png
+  move: 红框高亮（整窗对话框里框一个选项）

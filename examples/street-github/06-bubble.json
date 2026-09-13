@@ -1,0 +1,21 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "bubble",
+  "marks": [
+    {
+      "n": 1,
+      "x": 1283.765625,
+      "y": 88,
+      "w": 124.234375,
+      "h": 28,
+      "kind": "right",
+      "label": "对 · 点 Star",
+      "text": "收藏点 Star，别点旁边 Fork"
+    }
+  ]
+}

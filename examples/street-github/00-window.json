@@ -1,0 +1,132 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "raw": {
+    "viewport": {
+      "width": 1440,
+      "height": 900,
+      "dpr": 2
+    },
+    "star": {
+      "n": 1,
+      "ok": true,
+      "x": 1283.765625,
+      "y": 88,
+      "w": 124.234375,
+      "h": 28,
+      "kind": "right",
+      "label": "对 · 点 Star"
+    },
+    "fork": {
+      "n": 2,
+      "ok": true,
+      "x": 1149.765625,
+      "y": 88,
+      "w": 126,
+      "h": 28,
+      "kind": "wrong",
+      "label": "错 · 不要点 Fork"
+    },
+    "code": {
+      "n": 1,
+      "ok": true,
+      "x": 32,
+      "y": 143,
+      "w": 75.421875,
+      "h": 30,
+      "kind": "region",
+      "label": "Code"
+    },
+    "issues": {
+      "n": 2,
+      "ok": true,
+      "x": 115.421875,
+      "y": 143,
+      "w": 126.8125,
+      "h": 30,
+      "kind": "region",
+      "label": "Issues"
+    },
+    "pulls": {
+      "n": 3,
+      "ok": true,
+      "x": 250.234375,
+      "y": 143,
+      "w": 175.109375,
+      "h": 30,
+      "kind": "region",
+      "label": "Pull requests"
+    },
+    "header": {
+      "n": 1,
+      "ok": true,
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 72,
+      "kind": "zone",
+      "label": "顶栏 · 全站"
+    },
+    "nav": {
+      "n": 2,
+      "ok": true,
+      "x": 1018.09375,
+      "y": 88,
+      "w": 389.90625,
+      "h": 30,
+      "kind": "zone",
+      "label": "仓库导航"
+    },
+    "files": {
+      "n": 3,
+      "ok": true,
+      "x": 112,
+      "y": 307,
+      "w": 904,
+      "h": 593,
+      "kind": "zone",
+      "label": "文件表"
+    },
+    "about": {
+      "n": 4,
+      "ok": false,
+      "reason": "missing",
+      "label": "About 侧栏",
+      "kind": "zone"
+    },
+    "org": {
+      "n": 1,
+      "ok": true,
+      "x": 56,
+      "y": 91,
+      "w": 82.859375,
+      "h": 23,
+      "kind": "redact",
+      "label": "org"
+    },
+    "repo": {
+      "n": 2,
+      "ok": true,
+      "x": 152.390625,
+      "y": 91,
+      "w": 66.375,
+      "h": 23,
+      "kind": "redact",
+      "label": "repo"
+    },
+    "author": {
+      "n": 3,
+      "ok": true,
+      "x": 161,
+      "y": 270.5,
+      "w": 190.921875,
+      "h": 21,
+      "kind": "redact",
+      "label": "author"
+    }
+  }
+}

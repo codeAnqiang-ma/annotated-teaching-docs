@@ -1,0 +1,19 @@
+{
+  "space": "css",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "dpr": 2
+  },
+  "scene": "one",
+  "marks": [
+    {
+      "n": 1,
+      "x": 32,
+      "y": 143,
+      "w": 75.421875,
+      "h": 30,
+      "kind": "region"
+    }
+  ]
+}
